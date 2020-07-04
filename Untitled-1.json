@@ -1,0 +1,24 @@
+{
+  "inputRetail": {
+    "retailId": "retailId:",
+    "name": "name:",
+    "address": "address:",
+    "telephoneNo": "telephoneNo:",
+    "latitude": 555,
+    "longitude": 666,
+    "taxId": "taxId:",
+    "addressObject": {
+      "firstLine": "firstLine",
+      "subDistrict": "subDistrict",
+      "district": "district",
+      "province": "province",
+      "postcode": "postcode"
+    },
+    "employees": {
+      "username": "username",
+      "name": "name",
+      "surname": "surname",
+      "retailMemberId": "retailMemberId"
+    }
+  }
+}
