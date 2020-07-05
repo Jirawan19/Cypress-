@@ -77,6 +77,5 @@ context("todos API", () => {
     }).then((rs) => {
       expect(rs.body).to.have.eqls(create)
     });
-    
   });
 });
