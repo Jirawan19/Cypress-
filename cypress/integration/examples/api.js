@@ -32,8 +32,6 @@ context("todos API", () => {
   it("test GET all", () => {
     // getItems("GET", "", null);
     getItems().then(rs => {
-      console.log(rs.body.length);
-      
       expect(rs.status).to.have.eq(200)
     });
   });
