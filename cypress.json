@@ -1,3 +1,4 @@
 {
-    "projectId": "pv7c37"
+    "projectId": "pv7c37",
+    "watchForFileChanges":false
 }
